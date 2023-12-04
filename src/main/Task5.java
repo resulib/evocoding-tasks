@@ -23,7 +23,7 @@ public class Task5 {
                 if (number > answer) {
                     System.out.println("Daxil etdiyiniz reqem boyukdur");
                     break;
-                } else if (number < answer) {
+                } else {
                     System.out.println("Daxil etdiyiniz reqem kicikdir");
                     break;
                 }
