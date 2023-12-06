@@ -16,6 +16,7 @@ public class Task1 {
             if (count == 0) {
                 System.out.println(i);
             }
+
         }
     }
 }
